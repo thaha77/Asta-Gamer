@@ -34,7 +34,7 @@ body {
 
 #asta {
     width: 70px;  
-    height: 70px;
+    height: 70px; 
     background-image: url('asta.png'); 
     background-size: contain; 
     background-repeat: no-repeat;
